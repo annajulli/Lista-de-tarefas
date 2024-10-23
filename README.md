@@ -5,6 +5,6 @@ A página exibe uma lista onde os usuários podem adicionar tarefas. É uma ferr
 
 ## Como Começar
 1. Clone o repositório:
-https://github.com/annajulli/
+https://github.com/annajulli/Lista-de-tarefas.git
 
-3. Abra o arquivo index.tsx no seu navegador para ver a página.
+2. Abra o arquivo index.tsx no seu navegador para ver a página.
